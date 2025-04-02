@@ -7,13 +7,13 @@
   - **Mutação**: para evitar convergência prematura e manter diversidade, pequenas alterações aleatórias são feitas em alguns indivíduos.
   - **Iteração**: o processo de seleção, cruzamento e mutação é repetido por várias gerações até que uma solução satisfatória seja encontrada ou um número máximo de iterações seja atingido.
 
-  **Vantagens**:
+  **Vantagens**
 
-    **Flexibilidade**: podem ser aplicados a uma ampla variedade de problemas, mesmo com espaços de busca não lineares ou descontínuos.
-    **Robustez**: são menos propensos a ficar presos em ótimos locais (máximos ou mínimos subótimos).
-    **Paralelismo**: a natureza da população permite explorar várias soluções simultaneamente.
+    Flexibilidade: podem ser aplicados a uma ampla variedade de problemas, mesmo com espaços de busca não lineares ou descontínuos.
+    Robustez: são menos propensos a ficar presos em ótimos locais (máximos ou mínimos subótimos).
+    Paralelismo: a natureza da população permite explorar várias soluções simultaneamente.
   
-  **Desvantagens**:
+  **Desvantagens**
 
-    **Complexidade**: podem ser lentos para problemas muito grandes ou com populações enormes.
-    **Não garantem a solução ótima**: são heurísticos, então a solução final pode ser apenas uma aproximação.
+    Complexidade: podem ser lentos para problemas muito grandes ou com populações enormes.
+    Não garantem a solução ótima: são heurísticos, então a solução final pode ser apenas uma aproximação.
