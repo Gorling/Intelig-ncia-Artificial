@@ -10,10 +10,13 @@
   **Vantagens**
 
     Flexibilidade: podem ser aplicados a uma ampla variedade de problemas, mesmo com espaços de busca não lineares ou descontínuos.
+    
     Robustez: são menos propensos a ficar presos em ótimos locais (máximos ou mínimos subótimos).
+    
     Paralelismo: a natureza da população permite explorar várias soluções simultaneamente.
   
   **Desvantagens**
 
     Complexidade: podem ser lentos para problemas muito grandes ou com populações enormes.
+    
     Não garantem a solução ótima: são heurísticos, então a solução final pode ser apenas uma aproximação.
