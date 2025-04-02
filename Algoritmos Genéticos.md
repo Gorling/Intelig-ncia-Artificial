@@ -9,7 +9,8 @@
 
   **Vantagens**
 
-    Flexibilidade: podem ser aplicados a uma ampla variedade de problemas, mesmo com espaços de busca não lineares ou descontínuos.
+    Flexibilidade: podem ser aplicados a uma ampla variedade de problemas, mesmo com espaços de busca
+    não lineares ou descontínuos.
     
     Robustez: são menos propensos a ficar presos em ótimos locais (máximos ou mínimos subótimos).
     
